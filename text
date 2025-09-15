@@ -1,1 +1,3 @@
-git branch ( check krna kalia hmara program man kitny branches han)
+<code>git branch</code> ( check krna kalia hmara program man kitny branches han)
+<code>git branch about</code> branch create krna kalia
+<code>git checkout about</code> ( ksy bhe branch man jana kalia )
