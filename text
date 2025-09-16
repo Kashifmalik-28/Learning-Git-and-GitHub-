@@ -11,3 +11,11 @@
 <code>git branch --delete about</code> ksy bhe branch ko delete krna kalia shortcut.
 
 <code>git merge about </code> aik branch ka andar dusry branch merge krna ka Tarika.
+
+Video#05 ( Git Hub Tutorial Shortcuts )
+<code>git remote show origin </code> check krna kalia hmara code online repository pr ha kah nhi.
+
+Yah Teenon Shortcuts Git Hub hman data ha ( apny branches ko online push krna kalia Git Hub pr 👇🏿)
+<code> git remote add origin https://github.com/Kashifmalik-28/Learning-Git-and-GitHub-.git </code>
+<code> git branch -M main ( Rename branch kunkah github ko main branch pasand ha)
+<code> git push -u origin main </code> Jab pahly bar code ko push krna ha online repository pr.
