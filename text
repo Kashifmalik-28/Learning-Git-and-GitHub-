@@ -1,1 +1,7 @@
-git branch ( check krna kalia hmara program man kitny branches han)
+<code>git branch</code> ( check krna kalia hmara program man kitny branches han)
+<code>git branch about</code> branch create krna kalia
+<code>git checkout about</code> ( ksy bhe branch man jana kalia )
+<code>git log</code> is case man sirf us branch ka commit dikhaya ga jis man hm han.
+<code>git log --all --online -- graph</code> sary branches ka commit dikhaya ga.
+<code>git branch --delete about</code> ksy bhe branch ko delete krna kalia shortcut.
+
