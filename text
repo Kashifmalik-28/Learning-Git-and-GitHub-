@@ -19,3 +19,5 @@ Yah Teenon Shortcuts Git Hub hman data ha ( apny branches ko online push krna ka
 <code> git remote add origin https://github.com/Kashifmalik-28/Learning-Git-and-GitHub-.git </code>
 <code> git branch -M main ( Rename branch kunkah github ko main branch pasand ha)
 <code> git push -u origin main </code> Jab pahly bar code ko push krna ha online repository pr.
+
+<code> git clone https://github.com/Kashifmalik-28/Learning-Git-and-GitHub-.git</code> ( yah asa kra ga voh user jis ko collaborators ka Tor pr add kia apny Online Repository man To sara code ka excess usko ho jaya ga )
